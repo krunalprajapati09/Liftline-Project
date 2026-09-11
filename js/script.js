@@ -175,7 +175,6 @@ const trainerHeading = gsap.timeline({
         start: "top top",
         end: '+=1000',
         scrub: true,
-        markers: true
     }
 });
 
